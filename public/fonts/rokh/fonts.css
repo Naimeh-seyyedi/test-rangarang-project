@@ -1,0 +1,27 @@
+@font-face {
+  font-family: Rokh;
+  font-weight: 300;
+  font-style: normal;
+  src: url("./webfonts/Rokh.ttf") format("truetype");
+}
+@font-face {
+  font-family: Rokh;
+
+  font-weight: normal;
+  font-style: normal;
+
+  src: url("./webfonts/Rokh.ttf") format("truetype");
+}
+@font-face {
+  font-family: Rokh;
+  font-weight: 500;
+  font-style: normal;
+  src: url("./webfonts/Rokh.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Rokh;
+  font-weight: bold;
+  font-style: normal;
+  src: url("./webfonts/Rokh.ttf") format("truetype");
+}
